@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "nombre": "Otro Cliente",
+      "apellido": "Arroyo",
+      "email": "arroyo.alfredo.1pm@gmail.com",
+      "telefono": "461-292-7942",
+      "empresa": "Dos plazas",
+      "puesto": "Practicante sistemas",
+      "estado": 1,
+      "id": "24d3"
+    },
+    {
+      "nombre": "Freddy",
+      "apellido": "Arroyo",
+      "email": "arroyo.alfredo.1pm@gmail.com",
+      "telefono": "461-292-7942",
+      "empresa": "Dos plazas",
+      "puesto": "Practicante sistemas",
+      "estado": 0,
+      "id": "2"
+    }
+  ]
+}
